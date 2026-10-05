@@ -92,9 +92,9 @@ dan ketika login sebagai mahasiswa lagi untuk menambahkan pengaduan. statusnya s
 #### Berikut adalah validasi-validasi inputan :
 
 <img width="370" height="381" alt="SALAH ISI USN ATAY U PW" src="https://github.com/user-attachments/assets/ea31280d-90f8-47c9-81c5-95eb701e565c" />
-
+<br/>
 <img width="458" height="290" alt="ADM SALAH USN PW" src="https://github.com/user-attachments/assets/2cb1026e-bb1e-4331-a969-a7c30d2a7fd7" />
-
+<br/>
 <img width="458" height="446" alt="COOLDOWN 10 DETIK SALAH PW" src="https://github.com/user-attachments/assets/950126da-6afb-46dd-8f34-0fee7b43c0c4" />
 
 Ini ketika salah memasukkan username atau password. Ketika sudah mengisi sebanyak 3 kali maka sistem akan meng-cooldown proses login selama 10 detik.
